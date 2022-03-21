@@ -6,4 +6,4 @@
 -   Fill out the corresponding database values in the `.env` file
 -   Run `php artisan migrate` in the project root
 -   Run php artisan serve
--   Run npm install 
+-   Run npm install && npm run dev
