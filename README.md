@@ -5,5 +5,6 @@
 -   Copy the `.env.example` file to a new file called `.env`
 -   Fill out the corresponding database values in the `.env` file
 -   Run `php artisan migrate` in the project root
--   Run `npm install && npm run dev`
+-   Run `php artisan key:generate`
+-   Run `npm install`
 -   Run `php artisan serve`
